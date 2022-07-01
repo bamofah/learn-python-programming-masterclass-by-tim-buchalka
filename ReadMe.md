@@ -5,6 +5,7 @@
 
 ## Resources
 - [Udemy](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+- [Source Code](https://www.udemy.com/course/python-the-complete-python-developer-course/learn/lecture/3995760#learning-tools)
 
 
 ## Overview
